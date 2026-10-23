@@ -1,0 +1,33 @@
+[
+  {
+    "id": "aaaa1111-0000-0000-0000-000000000001",
+    "text": "Staff Software Engineer, Platform",
+    "categories": {"location": "Hyderabad, India", "team": "Platform", "commitment": "Full-time", "allLocations": ["Hyderabad, India"]},
+    "workplaceType": "hybrid",
+    "hostedUrl": "https://jobs.lever.co/acme/aaaa1111-0000-0000-0000-000000000001",
+    "applyUrl": "https://jobs.lever.co/acme/aaaa1111-0000-0000-0000-000000000001/apply",
+    "createdAt": 1790000000000,
+    "descriptionPlain": "Join our platform team to build the backbone of our product.",
+    "lists": [
+      {"text": "What you'll do", "content": "<li>Design APIs in Go</li><li>Run Kubernetes clusters on AWS</li>"}
+    ],
+    "additionalPlain": "We are an equal opportunity employer."
+  },
+  {
+    "id": "aaaa1111-0000-0000-0000-000000000002",
+    "text": "Data Analyst",
+    "categories": {"location": "Anywhere", "allLocations": ["Anywhere"]},
+    "workplaceType": "remote",
+    "hostedUrl": "https://jobs.lever.co/acme/aaaa1111-0000-0000-0000-000000000002",
+    "createdAt": 1790100000000,
+    "descriptionPlain": "Analyze things with SQL and Tableau.",
+    "lists": [],
+    "additionalPlain": ""
+  },
+  {
+    "id": "aaaa1111-0000-0000-0000-000000000003",
+    "text": "Posting with no URL",
+    "categories": {"location": "Nowhere"},
+    "descriptionPlain": "Broken."
+  }
+]

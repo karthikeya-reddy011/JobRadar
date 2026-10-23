@@ -1,0 +1,27 @@
+{
+  "jobs": [
+    {
+      "id": 1001,
+      "title": "Senior Backend Engineer",
+      "updated_at": "2026-09-30T14:21:08-04:00",
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/1001",
+      "location": {"name": "Remote - India"},
+      "content": "&lt;p&gt;Build APIs with &lt;strong&gt;Python&lt;/strong&gt; &amp;amp; Postgres.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+ years experience&lt;/li&gt;&lt;li&gt;Kubernetes&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 1002,
+      "title": "Software Engineer Intern",
+      "updated_at": "2026-10-02T09:00:00Z",
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/1002",
+      "location": {"name": "Bengaluru"},
+      "content": "&lt;p&gt;Learn a lot.&lt;/p&gt;"
+    },
+    {
+      "id": 1003,
+      "title": "Broken posting without a URL",
+      "location": {"name": "Nowhere"},
+      "content": ""
+    }
+  ],
+  "meta": {"total": 3}
+}

@@ -1,0 +1,68 @@
+# Companies to ingest. `slug` is the board token from the careers-page URL:
+#   boards.greenhouse.io/<slug>   or   job-boards.greenhouse.io/<slug>
+# Slugs below come from third-party listings and are NOT verified: open each board in a
+# browser first. A wrong slug just logs a 404 and is skipped. Grow this to ~20 companies.
+companies:
+  - {name: LinkedIn, ats: lever, slug: linkedin}
+  - {name: Palantir, ats: lever, slug: palantir}
+  - {name: Spotify, ats: lever, slug: spotify}
+  - {name: Getty Images, ats: lever, slug: gettyimages}
+  - {name: Rackspace, ats: lever, slug: rackspace}
+  - {name: Paytm, ats: lever, slug: paytm}
+  - {name: Xsolla, ats: lever, slug: xsolla}
+  - {name: HighLevel, ats: lever, slug: gohighlevel}
+  - {name: Welo Global, ats: lever, slug: weloglobal}
+  - {name: AHEAD, ats: lever, slug: thinkahead}
+  - {name: KPMG, ats: lever, slug: kpmg}
+  - {name: Gopuff, ats: lever, slug: gopuff}
+
+
+  - {name: OpenAI, ats: ashby, slug: openai}
+  - {name: Linear, ats: ashby, slug: linear}
+  - {name: Cursor, ats: ashby, slug: cursor}
+  - {name: Perplexity, ats: ashby, slug: perplexity}
+  - {name: Ramp, ats: ashby, slug: ramp}
+  - {name: Plaid, ats: ashby, slug: plaid}
+  - {name: Supabase, ats: ashby, slug: supabase}
+  - {name: Snowflake, ats: ashby, slug: snowflake}
+  - {name: Reddit, ats: ashby, slug: reddit}
+  - {name: Deel, ats: ashby, slug: deel}
+  - {name: Modern Treasury, ats: ashby, slug: moderntreasury}
+  - {name: Consensys, ats: ashby, slug: consensys}
+  - {name: ClickHouse, ats: ashby, slug: clickhouse}
+  - {name: Vanta, ats: ashby, slug: vanta}
+  - {name: Sentry, ats: ashby, slug: sentry}
+  - {name: ElevenLabs, ats: ashby, slug: elevenlabs}
+  - {name: Harvey, ats: ashby, slug: harvey}
+  - {name: Replit, ats: ashby, slug: replit}
+  - {name: Lemonade, ats: ashby, slug: lemonade}
+  - {name: Zapier, ats: ashby, slug: zapier}
+  - {name: PostHog, ats: ashby, slug: posthog}
+  - {name: Substack, ats: ashby, slug: substack}
+  - {name: Cohere, ats: ashby, slug: cohere}
+  - {name: Confluent, ats: ashby, slug: confluent}
+  - {name: Hopper, ats: ashby, slug: hopper}
+  
+
+  - {name: Stripe,    ats: greenhouse, slug: stripe}
+  - {name: Airbnb,    ats: greenhouse, slug: airbnb}
+  - {name: Databricks, ats: greenhouse, slug: databricks}
+  - {name: Figma,     ats: greenhouse, slug: figma}
+  - {name: Anthropic, ats: greenhouse, slug: anthropic}
+  - {name: Vercel,    ats: greenhouse, slug: vercel}
+  - {name: Coinbase,    ats: greenhouse, slug: coinbase}
+  - {name: Pinterest,   ats: greenhouse, slug: pinterest}
+  - {name: Robinhood,   ats: greenhouse, slug: robinhood}
+  - {name: Cloudflare,  ats: greenhouse, slug: cloudflare}
+  - {name: Discord,     ats: greenhouse, slug: discord}
+  - {name: Datadog,     ats: greenhouse, slug: datadog}
+  - {name: Reddit,      ats: greenhouse, slug: reddit}
+  - {name: Twilio,      ats: greenhouse, slug: twilio}
+  - {name: Instacart,   ats: greenhouse, slug: instacart}
+  - {name: Asana,       ats: greenhouse, slug: asana}
+  - {name: Brex,        ats: greenhouse, slug: brex}
+  - {name: Gusto,       ats: greenhouse, slug: gusto}
+  - {name: Mercury,     ats: greenhouse, slug: mercury}
+  - {name: GitLab,      ats: greenhouse, slug: gitlab}
+  - {name: Duolingo,    ats: greenhouse, slug: duolingo}
+  - {name: Lyft,        ats: greenhouse, slug: lyft}
